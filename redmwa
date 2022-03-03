@@ -1,0 +1,64 @@
+ {
+            "id": "recwxT04HO7xT9Jq0",
+            "fields": {
+                "Kickoff date": "2020-10-04",
+                "Name": "Premier utility bike",
+                "Project images": [
+                    {
+                        "id": "attGaAQlHrOs7JRqg",
+                        "width": 500,
+                        "height": 333,
+                        "url": "https://dl.airtable.com/.attachments/4ba2255223dd83ff7da2674336424f17/f90573d8/pexels-photo-100582.jpegautocompresscstinysrgbdpr1w500",
+                        "filename": "pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                        "size": 47191,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d63b03959edf2c354c0edb409fa67922/e9e534cd",
+                                "width": 54,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/97a778a9188e5d0e9133c7c0690f95c9/072997bb",
+                                "width": 500,
+                                "height": 333
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/6023f985b6af512d573aae03ba9d452f/cf0c501e",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Client": [
+                    "recPkP9U8fra6LVLB"
+                ],
+                "Due date": "2020-10-18",
+                "Project team": [
+                    {
+                        "id": "usrpEyZytbTJ95a2L",
+                        "email": "katherineduh+collab37@demo.htable.com",
+                        "name": "Skyler Xu"
+                    },
+                    {
+                        "id": "usr3VLCpyqgcI46Sh",
+                        "email": "katherineduh+collab10@demo.htable.com",
+                        "name": "Gal Samari"
+                    },
+                    {
+                        "id": "usr8e9aJ8jHSg29YV",
+                        "email": "katherineduh+collab26@demo.htable.com",
+                        "name": "Paris Fotiou"
+                    }
+                ],
+                "Project lead": {
+                    "id": "usr3VLCpyqgcI46Sh",
+                    "email": "katherineduh+collab10@demo.htable.com",
+                    "name": "Gal Samari"
+                },
+                "Notes": "Washington Trek is a nonprofit organization with the mission of promoting bike-riding across America. Each year, it hosts a national competition in its base city of Seattle for bike engineers to build the ultimate bicycle—one that can handle both rigorous terrain and daily road use, while also ensuring comfort and style.\n",
+                "Category": "Industrial design"
+            },
+            "createdTime": "2020-06-11T01:28:23.000Z"
+        }
